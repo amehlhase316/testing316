@@ -102,7 +102,30 @@ Name2 : Num Meetings
 
 **How do you feel at this point? Get a pulse on the optimism of the team.**
 
+### Contributions:
 
+> In this section I want you to point me to your main contributions (each of you individually). Some of the topcs are not needed for the first deliverables (you should know which things you should have done in this Sprint, if you don't then you have probably missed something):
+
+#### Team member A:
+  **Links to GitHub commits with main code contribution (up to 5 links):
+  
+    - link1
+    - link2
+  
+   **GitHub links to your Unit Tests (up to 3 links):
+  
+    - link1
+    - link2
+  
+  **GitHub links to your Code Reviews (up to 3 links):
+  
+    - link1
+    - link2
+
+  **How did you contribute to Static Analysis:
+  
+    - link1
+    - link2
   
   
 ## 4: ToDo list for you, all of the below need to be checked 
