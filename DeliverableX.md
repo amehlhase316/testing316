@@ -1,5 +1,7 @@
 # Deliverable Nr from Groupname
+
 **Scrum Master**: Name
+
 **Git Master**: Name
 
 ### Meeting minutes:
@@ -12,7 +14,9 @@
 |   |   |   |   |
 
 ### Summary:
+
 > Add rows as needed and add the number how many meetings they attended:
+
 Name1 : Num Meetings
 Name2 : Num Meetings
 
