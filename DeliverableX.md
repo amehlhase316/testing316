@@ -3,7 +3,7 @@
 
 ## 1: Basic Information (needed before you start with your Sprint -- Sprint Planning)
 
-   **Sprint Number:** Nr
+ **Sprint Number:** Nr
 
    **Scrum Master**: Name
 
