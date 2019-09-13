@@ -1,6 +1,6 @@
 # Deliverable Information
 
-## Basic Information (needed before you start with your Sprint -- Sprint Planning)
+## 1: Basic Information (needed before you start with your Sprint -- Sprint Planning)
 
 **Sprint Number:** Nr
 
@@ -27,7 +27,7 @@
 
 
 
-## During the Sprint
+## 2: During the Sprint
 
 ### Meeting minutes:
 > Add as many rows as needed and fill out the table.
@@ -70,7 +70,7 @@ Name2 : Num Meetings
 
 
 
-## After the Sprint
+## 3: After the Sprint
 
 ### Sprint Review
 
@@ -105,12 +105,12 @@ Name2 : Num Meetings
 
   
   
-## ToDo list for you, all of the below need to be checked 
+## 4: ToDo list for you, all of the below need to be checked 
 - [ ] Filled out the complete form from above, all fields are filled and written in full sentences
 - [ ] User Stories that were not completed, were left in the Sprint and a copy created
 - [ ] **Individual** Survey was filled submitted **individually** (create checkboxes below -- see Canvas to get link)
   - [ ] Team member 1
   - [ ] Team member 2
 - [ ] The original of this file was copied for the next Sprint (needed for all but last Sprint)
-  - [ ] Basic information for next Sprint was included (meaning Spring Planning is complete)
+  - [ ] Basic information (part 1) for next Sprint was included (meaning Spring Planning is complete)
   - [ ] You know how to proceed
