@@ -29,6 +29,7 @@
 
 
 ## 2: During the Sprint
+> Fill out the Meeting minutes during your Sprint and keep track of things. Update your Quality policies weekly, as explained in the lectures and in the Quality Policy documents. 
 
 ### Meeting minutes:
 > Add as many rows as needed and fill out the table.
