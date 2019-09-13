@@ -20,9 +20,15 @@
 
 **How many User Stories did you add?**
 
+> Your Answer
+
 **Why did you add exactly these US?**
 
+> Your Answer
+
 **Why do you think you will get them done?**
+
+> Your Answer
 
 
 
@@ -35,7 +41,7 @@ I would also advise you to already fill out the Contributions section (End of sp
 ### Meeting minutes:
 > Add as many rows as needed and fill out the table.
 
-| Date  | Attendees  |Minues   | Additional Info  |
+| Date  | Attendees  |Minutes   | Additional Info  |
 |---|---|---|---|
 |   |   |   |   |
 |   |   |   |   |
@@ -45,13 +51,14 @@ I would also advise you to already fill out the Contributions section (End of sp
 
 > Add rows as needed and add the number how many meetings they attended:
 
-Name1 : Num Meetings
-Name2 : Num Meetings
+   Name1 : Num Meetings
+
+   Name2 : Num Meetings
 
 ### Quality Policy
-> Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lecture and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable)
+> Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lectures and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable). You can copy your old ones from past sprints of course and add on and edit. 
 
-**GitHub Workflow:** 
+**GitHub Workflow** 
   > Your Workflow
   
 **Unit Tests Blackbox** 
@@ -63,9 +70,9 @@ Name2 : Num Meetings
 **Code Review** 
   > Your Code Review policy   
   
-  > Include a checklist which every developer will need to fill out when creating a Pull Request to the Dev branch. 
+  > Include a checklist/questions list which every developer will need to fill out/answe when creating a Pull Request to the Dev branch. 
   
-  > Include a checklist which every reviewer will need to fill out when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review.
+  > Include a checklist/question list which every reviewer will need to fill out/anser when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review.
   
 **Static Analysis** 
   > Your Static Analysis policy   
@@ -87,9 +94,15 @@ Name2 : Num Meetings
 
 **What do you think is the value you created this Sprint?**
 
+> Your Answer
+
 **Do you think you worked enough and that you did what was expected of you?**
 
+> Your Answer
+
 **Would you say you met the customers’ expectations? Why, why not?**
+
+> Your Answer
 
 ### Sprint Retrospective
 
@@ -97,17 +110,31 @@ Name2 : Num Meetings
 
 **Did you meet your sprint goal?**
 
+> Your Answer
+
 **Did you complete all stories on your Spring Backlog?**
+
+> Your Answer
 
 **If not, what went wrong?**
 
+> Your Answer
+
 **Did you work at a consistent rate of speed, or velocity? (Meaning did you work during the whole Sprint or did you start working when the deadline approached.)**
+
+> Your Answer
 
 **Did you deliver business value?**
 
+> Your Answer
+
 **Are there things the team thinks it can do better in the next Sprint?**
 
+> Your Answer
+
 **How do you feel at this point? Get a pulse on the optimism of the team.**
+
+> Your Answer
 
 ### Contributions:
 
