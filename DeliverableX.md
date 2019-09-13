@@ -63,6 +63,8 @@ Name2 : Num Meetings
 **Code Review** 
   > Your Code Review policy   
   
+  > Include a checklist which every reviewer will need to fill out when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review
+  
 **Static Analysis** 
   > Your Static Analysis policy   
   
