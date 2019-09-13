@@ -1,5 +1,5 @@
 # Deliverable Information
-   > Please include your answers 
+   > Please include your answers below in a good format so it is easy for me to see. For answers to questions please use these Blockquotes. Please see example as well. 
 
 ## 1: Basic Information (needed before you start with your Sprint -- Sprint Planning)
 
