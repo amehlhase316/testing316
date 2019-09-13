@@ -78,7 +78,7 @@ I would also advise you to already fill out the Contributions section (End of sp
   > Your Static Analysis policy   
 
 **Continuous Integration** 
-  > Your Continuous Integratio policy
+  > Your Continuous Integration policy
 
 
 
