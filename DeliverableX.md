@@ -165,9 +165,9 @@ I would also advise you to already fill out the Contributions section (End of sp
 ## 4: ToDo list for you, all of the below need to be checked 
 - [ ] Filled out the complete form from above, all fields are filled and written in full sentences
 - [ ] User Stories that were not completed, were left in the Sprint and a copy created
-- [ ] **Individual** Survey was filled submitted **individually** (create checkboxes below -- see Canvas to get link)
+- [ ] **Individual** Survey was submitted **individually** (create checkboxes below -- see Canvas to get link)
   - [ ] Team member 1
   - [ ] Team member 2
-- [ ] The original of this file was copied for the next Sprint (needed for all but last Sprint)
+- [ ] The original of this file was copied for the next Sprint (needed for all but last Sprint where you do not need to copy it anymore)
   - [ ] Basic information (part 1) for next Sprint was included (meaning Spring Planning is complete)
   - [ ] You know how to proceed
