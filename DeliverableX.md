@@ -134,7 +134,10 @@ I would also advise you to already fill out the Contributions section (End of sp
 
     - link1
     - link2
+ 
+ **What was your main contribution to the Quality Policy documentation?:
 
+    - info
   
 ## 4: ToDo list for you, all of the below need to be checked 
 - [ ] Filled out the complete form from above, all fields are filled and written in full sentences
