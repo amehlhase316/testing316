@@ -30,7 +30,9 @@
 
 > Your Answer
 
+**Do you have a rough idea what you need to do? (if the answer is no then please let me know on Slack)**
 
+> Your Answer
 
 
 
@@ -39,13 +41,13 @@
 I would also advise you to already fill out the Contributions section (End of sprint) as you go, to create less work at the end.
 
 ### Meeting minutes:
-> Add as many rows as needed and fill out the table.
+> Add as many rows as needed and fill out the table. (Travis CI starts with Sprint 3, not needed before that)
 
-| Date  | Attendees  |Minutes   | Additional Info  |
-|---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Date  | Attendees  |Minutes   | Burndown Info | TravisCI info | Additional Info  |
+|---|---|---|---|--|
+|   |   |   |   |  |
+|   |   |   |   |  |
+|   |   |   |   |  |
 
 ### Meeting Summary:
 
