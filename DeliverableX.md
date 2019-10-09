@@ -55,34 +55,6 @@ I would also advise you to already fill out the Contributions section (End of sp
 
    Name2 : Num Meetings
 
-### Quality Policy
-> Describe your Quality Policy in detail for this Sprint (remember what I ask you to do when I talk about the "In your Project" part in the lectures and what is mentioned after each assignment (in due course you will need to fill out all of them, check which ones are needed for each Deliverable). You can copy your old ones from past sprints of course and add on and edit. 
-
-**GitHub Workflow** 
-  > Your Workflow
-
-**Unit Tests Blackbox** 
-  > Your Blackbox testing policy 
-
- **Unit Tests Whitebox** 
-  > Your Whitebox testing policy 
-
-**Code Review** 
-  > Your Code Review policy   
-
-  > Include a checklist/questions list which every developer will need to fill out/answe when creating a Pull Request to the Dev branch. 
-
-  > Include a checklist/question list which every reviewer will need to fill out/anser when conducting a review, this checklist (and the answers of course) need to be put into the Pull Request review.
-
-**Static Analysis** 
-  > Your Static Analysis policy   
-
-**Continuous Integration** 
-  > Your Continuous Integration policy
-
-
-
-
 
 ## 3: After the Sprint
 
