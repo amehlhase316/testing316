@@ -44,10 +44,10 @@ I would also advise you to already fill out the Contributions section (End of sp
 > Add as many rows as needed and fill out the table. (Travis CI starts with Sprint 3, not needed before that)
 
 | Date  | Attendees  |Minutes   | Burndown Info | TravisCI info | Additional Info  |
-|---|---|---|---|--|
-|   |   |   |   |  |
-|   |   |   |   |  |
-|   |   |   |   |  |
+|---|---|---|---|--|--|
+|   |   |   |   |  |  |
+|   |   |   |   |  |  |
+|   |   |   |   |  |  |
 
 ### Meeting Summary:
 
